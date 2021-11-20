@@ -142,10 +142,10 @@ async function run() {
 run().catch(console.dir);
 
 app.get('/', (req, res) => {
-    res.send('holyday start');
+    res.send('holiday start');
 });
-app.get('/holyday', (req, res) => {
-    res.send('holyday start is running by MISTY');
+app.get('/holiday', (req, res) => {
+    res.send('holiday start is running by MISTY');
 });
 
 app.listen(port, () => {

@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>Holiday</h1>
+<h1>HoliDay</h1>
 
 <p>Being able to travel is more than just experiencing a new place and taking photos. It also brings new ideas and perspectives to the table. In today’s world, it is more important than ever to stay connected to the world. In this project, a management system has been developed for a travel agency. This system helps the travel agency showcase their tour packages and allows customers to book their desired packages through the management system.</p>
 
